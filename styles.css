@@ -1,0 +1,104 @@
+.6_30 { 
+	overflow:hidden;
+}.e6_30 { 
+	background-image:linear-gradient(0deg, rgba(255, 137.4380475282669, 94.56250101327896, 1) 0%,rgba(76.0000030696392, 76.0000030696392, 76.0000030696392, 1) 100%) ;
+	width:1440px;
+	height:960px;
+	position:absolute;
+}.6_33 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}.e6_33 { 
+	width:585px;
+	height:763px;
+	position:absolute;
+	left:427px;
+	top:99px;
+	border-top-left-radius:102px;
+	border-top-right-radius:102px;
+	border-bottom-left-radius:102px;
+	border-bottom-right-radius:102px;
+	background-image:url(images/rectangle_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e7_36 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.800000011920929);
+	width:441px;
+	height:84px;
+	position:absolute;
+	left:499px;
+	top:641px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+}.e6_35 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.800000011920929);
+	width:441px;
+	height:84px;
+	position:absolute;
+	left:499px;
+	top:502px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+}.e7_39 { 
+	color:rgba(0, 0, 0, 1);
+	width:98px;
+	height:38px;
+	position:absolute;
+	left:670px;
+	top:523px;
+	font-family:Chelsea Market;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e7_40 { 
+	color:rgba(0, 0, 0, 1);
+	width:123px;
+	height:38px;
+	position:absolute;
+	left:666px;
+	top:662px;
+	font-family:Chelsea Market;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e7_37 { 
+	color:rgba(255, 255, 255, 1);
+	width:393px;
+	height:72px;
+	position:absolute;
+	left:533px;
+	top:233px;
+	font-family:Chelsea Market;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+}.e7_38 { 
+	color:rgba(255, 255, 255, 1);
+	width:378px;
+	height:124px;
+	position:absolute;
+	left:530px;
+	top:328px;
+	font-family:Alef;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.7_41 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}.e7_41 { 
+	width:396px;
+	height:94px;
+	position:absolute;
+	left:530px;
+	top:52px;
+	border-top-left-radius:80px;
+	border-top-right-radius:80px;
+	border-bottom-left-radius:80px;
+	border-bottom-right-radius:80px;
+	background-image:url(images/logo_1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
